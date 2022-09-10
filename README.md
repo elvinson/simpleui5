@@ -1,2 +1,3 @@
-# simpleui5
-simple implementation of ui5 concepts
+# SimpleUI5
+
+Simple implementation of ui5 concepts
